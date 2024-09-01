@@ -1,0 +1,19 @@
+<resources>
+   <style name="GdxTheme.Fullscreen" parent="GdxTheme">
+        <item name="android:actionBarStyle">@style/Widget.GdxTheme.ActionBar.Fullscreen</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+    <style name="ThemeOverlay.Herbarium.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
+        <item name="fullscreenTextColor">@color/light_blue_A200</item>
+    </style>
+    <style name="Theme.Herbarium" parent="Theme.AppCompat.Light" />
+    <style name="Theme.Herbarium.Fullscreen" parent="Theme.Herbarium">
+        <item name="android:actionBarStyle">@style/Widget.Theme.Herbarium.ActionBar.Fullscreen
+        </item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+</resources>

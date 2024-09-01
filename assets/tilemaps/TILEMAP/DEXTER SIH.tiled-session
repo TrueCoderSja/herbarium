@@ -1,0 +1,82 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "isaiah658's-Pixel-Pack/tilemap.tmx",
+    "expandedProjectPaths": [
+        "isaiah658's-Pixel-Pack",
+        "."
+    ],
+    "fileStates": {
+        "C:/Users/gargm/Desktop/TILED SIH.tmx": {
+            "scale": 0.17416666666666664,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2400.0000000000005,
+                "y": 1673.6842105263158
+            }
+        },
+        "isaiah658's-Pixel-Pack/1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "isaiah658's-Pixel-Pack/DEXTER.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "isaiah658's-Pixel-Pack/T1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "isaiah658's-Pixel-Pack/gh.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "isaiah658's-Pixel-Pack/t2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "isaiah658's-Pixel-Pack/tilemap.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1330,
+                "y": 1200
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/gargm/Desktop/DEXTER/TILEMAP/tileset2",
+    "map.height": 150,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 150,
+    "openFiles": [
+        "isaiah658's-Pixel-Pack/T1.tsx",
+        "isaiah658's-Pixel-Pack/t2.tsx",
+        "isaiah658's-Pixel-Pack/tilemap.tmx",
+        "isaiah658's-Pixel-Pack/gh.tsx",
+        "isaiah658's-Pixel-Pack/1.tsx"
+    ],
+    "project": "DEXTER SIH.tiled-project",
+    "recentFiles": [
+        "isaiah658's-Pixel-Pack/T1.tsx",
+        "isaiah658's-Pixel-Pack/t2.tsx",
+        "isaiah658's-Pixel-Pack/1.tsx",
+        "isaiah658's-Pixel-Pack/gh.tsx",
+        "isaiah658's-Pixel-Pack/tilemap.tmx",
+        "isaiah658's-Pixel-Pack/DEXTER.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}

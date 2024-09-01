@@ -1,0 +1,114 @@
+[
+  {
+    "EnglishName": "Turmeric",
+    "ScientificName": "Curcuma longa",
+    "HindiName": "हल्दी (Haldi)",
+    "Uses": "Anti-inflammatory, antioxidant, digestive aid",
+    "SideEffects": "May cause stomach upset in large doses"
+  },
+  {
+    "EnglishName": "Ginger",
+    "ScientificName": "Zingiber officinale",
+    "HindiName": "अदरक (Adrak)",
+    "Uses": "Digestive aid, anti-inflammatory, anti-nausea",
+    "SideEffects": "May cause heartburn or digestive issues"
+  },
+  {
+    "EnglishName": "Ashwagandha",
+    "ScientificName": "Withania somnifera",
+    "HindiName": "अश्वगंधा (Ashwagandha)",
+    "Uses": "Stress relief, adaptogen, energy booster",
+    "SideEffects": "May cause drowsiness, upset stomach"
+  },
+  {
+    "EnglishName": "Holy Basil",
+    "ScientificName": "Ocimum sanctum",
+    "HindiName": "तुलसी (Tulsi)",
+    "Uses": "Respiratory health, stress relief, immune booster",
+    "SideEffects": "May interact with blood-thinning medications"
+  },
+  {
+    "EnglishName": "Echinacea",
+    "ScientificName": "Echinacea purpurea",
+    "HindiName": "एकिनेशिया (Echinacea)",
+    "Uses": "Immune support, anti-inflammatory, wound healing",
+    "SideEffects": "May cause allergic reactions or digestive issues"
+  },
+  {
+    "EnglishName": "Neem",
+    "ScientificName": "Panax ginseng",
+    "HindiName": "जिनसेंग (Ginseng)",
+    "Uses": "Energy booster, cognitive function, stress relief",
+    "SideEffects": "Insomnia, headaches, digestive upset"
+  },
+  {
+    "EnglishName": "Amla",
+    "ScientificName": "levantrigona",
+    "HindiName": "आंवला (Amla)",
+    "Uses": "Soothes cough, digestive aid, anti-inflammatory",
+    "SideEffects": "High blood pressure, potassium loss"
+  },
+  {
+    "EnglishName": "Valerian",
+    "ScientificName": "Valeriana officinalis",
+    "HindiName": "वलेरियन (Valerian)",
+    "Uses": "Sleep aid, anxiety relief",
+    "SideEffects": "Drowsiness, digestive issues, headache"
+  },
+  {
+    "EnglishName": "Peppermint",
+    "ScientificName": "Mentha piperita",
+    "HindiName": "पुदीना (Pudina)",
+    "Uses": "Digestive aid, relief from nausea, headache relief",
+    "SideEffects": "Heartburn, allergic reactions"
+  },
+  {
+    "EnglishName": "Lavender",
+    "ScientificName": "Lavandula angustifolia",
+    "HindiName": "लैवेंडर (Lavender)",
+    "Uses": "Anxiety relief, sleep aid, skin care",
+    "SideEffects": "Allergic reactions, skin irritation"
+  },
+  {
+    "EnglishName": "Cinnamon",
+    "ScientificName": "Cinnamomum verum",
+    "HindiName": "दारचीनी (Darchini)",
+    "Uses": "Digestive aid, anti-inflammatory, blood sugar control",
+    "SideEffects": "Allergic reactions, mouth sores"
+  },
+  {
+    "EnglishName": "Fenugreek",
+    "ScientificName": "Trigonella foenum-graecum",
+    "HindiName": "मेथी (Methi)",
+    "Uses": "Supports digestive health, helps regulate blood sugar levels, promotes milk production in breastfeeding mothers.",
+    "SideEffects": ""
+  },
+  {
+    "EnglishName": "Cardamom",
+    "ScientificName": "Elettaria cardamomum",
+    "HindiName": "इलायची (Elaichi)",
+    "Uses": "Anti-inflammatory, antioxidant, digestive aid",
+    "SideEffects": "May cause gastrointestinal discomfort, body odor, or allergic reactions."
+  },
+  {
+    "EnglishName": "Rosemary",
+    "ScientificName": "glico piperita",
+    "HindiName": "अदरक (Adrak)",
+    "Uses": "Digestive aid, anti-inflammatory, anti-nausea",
+    "SideEffects": "Some kind of side effect to skin"
+  },
+  {
+    "EnglishName": "Lemon",
+    "ScientificName": "Citrus limon",
+    "HindiName": "नींबू (Nimbu)",
+    "Uses": "Stress relief, adaptogen, energy booster",
+    "SideEffects": "Feel free to ask if you need information on more herbs or additional details"
+  },
+  {
+    "EnglishName": "Licorice",
+    "ScientificName": "Glycyrrhiza glabra",
+    "HindiName": "मुलहठी (Mulethi)",
+    "Uses": "Soothes sore throat",
+    "SideEffects": "Long-term use can lead to hypertension"
+  }
+]
